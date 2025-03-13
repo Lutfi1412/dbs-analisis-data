@@ -11,3 +11,9 @@ cd Dashboard
 ```
 streamlit run dashboard.py
 ```
+
+## Run Geospatial Map pada file .ipynb
+
+```
+run manual untuk bagian analisis lanjutan
+```
